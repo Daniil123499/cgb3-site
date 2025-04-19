@@ -1,0 +1,5 @@
+title: Центральная городская больница №3
+description: ЦГБ №3 - Спасаем жизни
+theme: minima
+plugins:
+  - jekyll-feed

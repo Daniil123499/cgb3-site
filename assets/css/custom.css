@@ -1,0 +1,18 @@
+body {
+  background-color: #f9fdfd;
+  color: #1a1a1a;
+  font-family: 'Segoe UI', sans-serif;
+}
+a {
+  color: #007b8f;
+}
+a:hover {
+  color: #005f6b;
+}
+.site-title {
+  color: #007b8f !important;
+}
+.department-icon {
+  display: inline-block;
+  margin-right: 8px;
+}
